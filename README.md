@@ -49,4 +49,4 @@ Este proyecto es una aplicación móvil desarrollada en React Native, compatible
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio importante.
 
 ## Licencia
-Este proyecto está licenciado bajo la Licencia MIT.
+Este proyecto está licenciado bajo la Licencia GNU General Public License v3.0.
